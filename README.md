@@ -34,6 +34,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/Luis-Esquivia/Luis-Esquivia/blob/output/snake.svg" alt="Snake animation" />
 
 ###
